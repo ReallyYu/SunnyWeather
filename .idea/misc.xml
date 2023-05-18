@@ -4,13 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/26210/Documents/project/Sunnyweather/app/src/main/res/layout/activity_main.xml" value="0.3283514492753623" />
+        <entry key="..\:/file/mycode/android/SunnyWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.303" />
+        <entry key="..\:/file/mycode/android/SunnyWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.303" />
+        <entry key="..\:/file/mycode/android/SunnyWeather/app/src/main/res/layout/activity_main.xml" value="0.30978260869565216" />
+        <entry key="..\:/file/mycode/android/SunnyWeather/app/src/main/res/layout/fragment_place.xml" value="0.30978260869565216" />
+        <entry key="..\:/file/mycode/android/SunnyWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.303" />
       </map>
     </option>
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
